@@ -1,6 +1,0 @@
-[0805/041328.272:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
-[0805/041541.734:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
-[0806/033313.200:ERROR:process_info.cc(359)] UncheckedAllocate
-[0806/033347.120:ERROR:process_info.cc(359)] UncheckedAllocate
-[0806/033356.545:ERROR:process_info.cc(359)] UncheckedAllocate
-[0806/074630.390:ERROR:process_info.cc(359)] UncheckedAllocate

@@ -116,7 +116,7 @@ public class BaseClass {
 		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "./Report/MMTReport.html");
 		htmlReporter.config().setDocumentTitle("Makemytrip Automation Report");
 		htmlReporter.config().setReportName("Functional Testing");
-		htmlReporter.config().setTheme(Theme.STANDARD);
+		htmlReporter.config().setTheme(Theme.DARK);
 
 		extent = new ExtentReports();
 		extent.attachReporter(htmlReporter);
